@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#21425d"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/ic_settings_black_24dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="setting"
+            android:textSize="25sp"
+            android:textColor="#fff"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pay"
+        android:layout_margin="20dp"
+        android:id="@+id/textopenpay"
+        android:textSize="25sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:background="#000"
+
+        android:layout_height="1dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Edit profile "
+        android:layout_margin="20dp"
+
+        android:textSize="25sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:background="#000"
+
+        android:layout_height="1dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Theme "
+        android:layout_margin="20dp"
+
+
+        android:textSize="25sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:background="#000"
+        android:layout_height="1dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="about"
+        android:layout_margin="20dp"
+
+        android:textSize="25sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:background="#000"
+        android:layout_height="1dp" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Support"
+        android:layout_margin="20dp"
+
+        android:textSize="25sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:background="#000"
+        android:layout_height="1dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="privacy and policy "
+        android:layout_margin="20dp"
+
+        android:textSize="25sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:background="#000"
+        android:layout_height="1dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Help "
+        android:layout_margin="20dp"
+        android:id="@+id/help"
+        android:textSize="25sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:background="#000"
+        android:layout_height="1dp" />
+
+</LinearLayout>

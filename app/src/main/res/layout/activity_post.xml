@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context="io.github.froger.instamaterial.io.github.froger.mahmoud.ui.activity.PostActivity">
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:onClick="imagebuttonclicked"
+        android:id="@+id/imageB"
+        android:layout_margin="4dp"
+android:background="@drawable/shapeback"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Name"
+      android:layout_marginTop="50dp"
+        android:padding="10dp"
+    android:layout_marginLeft="20dp"
+
+        android:layout_marginRight="20dp"
+        android:id="@+id/nametext"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Write something"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+android:layout_marginTop="10dp"
+        android:id="@+id/desctext"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Post"
+        android:background="@drawable/shapeback2"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:layout_marginLeft="50dp"
+        android:textSize="15dp"
+        android:layout_marginRight="50dp"
+        android:id="@+id/postn"
+        android:onClick="Post_onClick_clicked"
+        android:layout_marginTop="40dp"/>
+</LinearLayout>

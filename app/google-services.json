@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "664269234359",
+    "firebase_url": "https://storia-ae8bf.firebaseio.com",
+    "project_id": "storia-ae8bf",
+    "storage_bucket": "storia-ae8bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664269234359:android:29b7e8393dd027c7",
+        "android_client_info": {
+          "package_name": "com.example.shhata.storia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664269234359-05akodpnjr2qskie4amqdj695bbcj1g3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shhata.storia",
+            "certificate_hash": "9db010613668b5dc2d353ba271f8c6ca9a528351"
+          }
+        },
+        {
+          "client_id": "664269234359-l3ah0ujl9g5a3db4v4mbfp0jsk8a22kq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shhata.storia",
+            "certificate_hash": "0f9f9e253f46fa25b28ab8a5e38fcb40ebf4ba06"
+          }
+        },
+        {
+          "client_id": "664269234359-rk8budtojumivsmvdsvva4blh79sf94i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHjnwdzmnVvb8CaPTBblyxW0GDKWHrPwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664269234359-rk8budtojumivsmvdsvva4blh79sf94i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664269234359:android:0c10006aa847cc09",
+        "android_client_info": {
+          "package_name": "storia.zyad.mostafa.mahmoud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664269234359-nrlktlvmnt7qhsssu7cl668vn3ejk7ba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "storia.zyad.mostafa.mahmoud",
+            "certificate_hash": "9db010613668b5dc2d353ba271f8c6ca9a528351"
+          }
+        },
+        {
+          "client_id": "664269234359-rk8budtojumivsmvdsvva4blh79sf94i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHjnwdzmnVvb8CaPTBblyxW0GDKWHrPwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664269234359-rk8budtojumivsmvdsvva4blh79sf94i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
